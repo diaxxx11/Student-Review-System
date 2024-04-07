@@ -1,6 +1,5 @@
 //User.cpp
-// Zeynep Bedia Gül Ayan 2204012287
-// Hasan Gündüz 2104010029
+
 
 #include "User.h"
 using namespace std;
