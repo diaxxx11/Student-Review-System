@@ -1,6 +1,5 @@
 // User.h
-// Zeynep Bedia Gül Ayan 2204012287
-// Hasan Gündüz 2104010029
+
 
 #ifndef USER_H
 #define USER_H
