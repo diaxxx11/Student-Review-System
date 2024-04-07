@@ -1,6 +1,5 @@
 // LoginSystem.h
-// Zeynep Bedia Gül Ayan 2204012287
-// Hasan Gündüz 2104010029
+
 
 #ifndef LOGINSYSTEM_H
 #define LOGINSYSTEM_H
