@@ -1,6 +1,5 @@
 // UserManager.cpp
-// Zeynep Bedia Gül Ayan 2204012287
-// Hasan Gündüz 2104010029
+
 
 #include "UserManager.h"
 #include "Student.h"
