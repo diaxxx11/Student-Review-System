@@ -1,6 +1,5 @@
 // CourseProgram.h
-// Zeynep Bedia Gül Ayan 2204012287
-// Hasan Gündüz 2104010029
+
 
 #ifndef COURSEPROGRAM_H
 #define COURSEPROGRAM_H
