@@ -1,0 +1,61 @@
+kaanoruc
+Physics_1
+-Quiz_1: 72/100
+Midterm: 30/100
+Project: 94/100
+Final: 80/100
+*
+Advanced English_1
+-Quiz_1: 39/100
+Midterm: 85/100
+Project: 58/100
+Final: 95/100
+*
+Calculus_1
+-Quiz_1: 69/100
+Midterm: 60/100
+Project: 39/100
+Final: 60/100
+*
+Intro to Programming
+-Quiz_1: 39/100
+Midterm: 85/100
+Project: 58/100
+Final: 95/100
+*
+Physics Lab_1
+-Quiz_1: 69/100
+Midterm: 60/100
+Project: 39/100
+Final: 60/100
+
+bediaayan
+Physics_1
+-Quiz_1: 96/100 
+Midterm: 59/100
+Project: 39/100
+Final: 70/100
+*
+Advanced English_1
+-Quiz_1 39/100 
+Midterm: 39/100
+Project: 94/100
+Final: 48/100
+*
+Calculus-1
+-Quiz-1: 69/100 
+Midterm: 29/100
+Project: 39/100
+Final: 59/100
+*
+Intro to Programming
+-Quiz-1: 46/100 
+Midterm: 85/100
+Project: 81/100
+Final: 95/100
+*
+Physics Lab-1
+-Quiz-1: 69/100 
+Midterm: 53/100
+Project: 39/100
+Final: 74/100

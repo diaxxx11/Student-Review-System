@@ -1,0 +1,42 @@
+1
+Monday
+Physics-1 10:00-11:45
+Advanced English-1 13:00-14:45
+*
+Tuesday
+Calculus-1 09:00-10:45
+*
+Wednesday
+Intro to Programming 11:00-12:45
+Physics-1 13:00-14:45
+Calculus-1 15:00-16:45
+*
+Thursday
+Physics Lab-1 09:00-10:45
+*
+Friday
+Intro to Programming 11:00-12:45
+Advanced English-1 13:00-14:45
+
+
+
+2
+Monday
+Advanced English-1 09:00-10:45
+Physics-1 13:00-14:45
+*
+Tuesday
+Calculus-1 11:00-12:45
+*
+Wednesday
+Calculus-1 09:00-10:45
+Intro to Programming-1 13:00-14:45
+Physics-1 15:00-16:45
+*
+Thursday
+Physics Lab-1 11:00-12:45
+*
+Friday
+Advanced English-1 11:00-12:45
+Intro to Programming 14:00-15:45
+
